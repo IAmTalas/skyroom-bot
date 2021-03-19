@@ -1,0 +1,5 @@
+schedule==1.0.0
+tabulate==0.8.7
+pytz==2020.1
+selenium==4.0.0a1
+requests==2.24.0
