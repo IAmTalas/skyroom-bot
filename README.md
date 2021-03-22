@@ -17,6 +17,3 @@ install required packages with pip
 run it ...
 `python app.py`
 
-## How about running on VPS
-
-if you want to run it on a VPS contact me on [telegram](https://telegram.me/iamtalas) to help you
